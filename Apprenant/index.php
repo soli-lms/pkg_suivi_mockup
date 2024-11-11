@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <?php include_once  $config['views_path'] . 'head.php'; ?>
-
+ 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 
