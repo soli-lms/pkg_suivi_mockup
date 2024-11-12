@@ -158,6 +158,6 @@
 
 <!-- get script -->
 
-<?php include_once "../../layouts/footer.php"; ?>
+<?php include_once $config['views_path'] . 'footer.php'; ?>
 
 </html>
